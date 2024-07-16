@@ -2,7 +2,7 @@
 
 This repository has useful information for configuring KDE Plasma to use i3 (rather than KWin) as your window manager. I might also write a script to automatically do it (or an AUR package that you can install to automatically apply the tweaks).
 
-*Note: This guide is written primarily for Arch Linux users. While configurations may be consistent across distros, some package names might need to be changed.*
+*Note: This guide is VERY hastily written, also primarily for Arch Linux. This is primarily based on my own experience configuring this, and does not represent all use cases / system configurations. While some things may be consistent across systems / distros / display managers / Plasma versions, your mileage may vary. Definitely double check package names as a good first step.*
 
 # Install Packages
 
